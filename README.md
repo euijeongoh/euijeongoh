@@ -1,3 +1,8 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=egg&text=euijeong's_Git&color=random)
+</div>
+
 <h1 align="center">Hello World! I'm euijeong</h1>
 <h3 align="center">A passionate backend developer from Korea!</h3>
 
